@@ -1,0 +1,12 @@
+"b'""He was both everything I could ever want\xe2\x80\xa6\nAnd nothing I could ever have\xe2\x80\xa6""\n\xe2\x80\x94 Ranata Suzuki'"
+b'\xe2\x80\x9cI was a little cross.I ask pardon. If I do get up a little temper I have no sufficient time to keep it up.\xe2\x80\x9d\n\xe2\x80\x95 Abraham Lincoln'
+"b""\xe2\x80\x9cDon't be afraid! We won't make an author of you, while there's an honest trade to be learnt, or brick-making to tu\xe2\x80\xa6 https://t.co/nKlvzHt8lk"""
+"b'\xe2\x80\x9cMine, is a wicked world of pure fascinastion.\xe2\x80\x9d\n\xe2\x80\x95 Carroll Bryant'"
+"b'\xe2\x80\x9cWithout music, life would be a mistake.\xe2\x80\x9d\n\xe2\x80\x95 Friedrich Nietzsche, Twilight of the Idols'"
+"b'\xe2\x80\x9cTo live is the rarest thing in the world. Most people exist, that is all.\xe2\x80\x9d\n\xe2\x80\x95 Oscar Wilde'"
+"b""\xe2\x80\x9cIf you tell the truth, you don't have to remember anything.\xe2\x80\x9d\n\xe2\x80\x95 Mark Twain"""
+"b""\xe2\x80\x9cIn three words I can sum up everything I've learned about life: it goes on.\xe2\x80\x9d\n\xe2\x80\x95 Robert Frost"""
+"b""\xe2\x80\x9cTwo things are infinite: the universe and human stupidity; and I'm not sure about the universe.\xe2\x80\x9d\n\xe2\x80\x95 Albert Einstein"""
+b'\xe2\x80\x9cBe yourself; everyone else is already taken.\xe2\x80\x9d\n\xe2\x80\x95 Oscar Wilde'
+b'it is sunny and bright'
+b'good afternoon tweeter'
