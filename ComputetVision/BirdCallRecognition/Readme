@@ -1,5 +1,6 @@
-The data for this file has been taken from cornell bird classification competition of kaggle.
+The data for this program has been taken from cornell bird classification competition of kaggle.
 The entire dataset was around 22 gb.As this notebook has been made in colab so there is space restrictions. 
 As such, I have taken a few audio files from the dataset and only two target classes of the birds for training the CNN
 I have read the audio file and convereted into image spectrograms.
 Then trained a CNN on the spectrograms. The trained model is not tested on unseen data.
+This program is created using pytorch.
